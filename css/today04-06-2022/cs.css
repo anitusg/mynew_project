@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Gilroy", "-apple-system,BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.top_sec {
+    width: 100%;
+    float: left;
+}
+
+img {
+    max-width: 100%;
+    text-align: center;
+}
+
+.top_sec_imgcontent {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top_img_sec {
+    width: 50%;
+    float: left;
+}
+
+.top_right_content {
+    width: 50%;
+    float: left;
+    padding: 0px 20px 0px 20px;
+}
+
+.receive_pay {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 30px 0px 30px 0px;
+    color: #606060;
+    background-color: white;
+}
+
+.top_rightsec {
+    float: left;
+    font-size: 30px;
+    font-weight: 400;
+    color: #606060;
+}
+
+.power_store {
+    font-size: 100%;
+    font-weight: 600;
+    color: #003366;
+}
+
+.google_play {
+    float: left;
+    width: 155px;
+    border: 1px solid #003366;
+    margin-top: 25px;
+    padding: 2px;
+    background-color: white;
+}
+
+.google_play:hover {
+    background-color: #eef9fe;
+}
+
+.gpay_image {
+    display: inline-block;
+    height: 25px;
+}
+
+.gpaygpay {
+    display: inline-block;
+}
+
+.gpay_get {
+    display: block;
+    color: #003366;
+    font-size: 10px;
+    padding: 2px 3px 3px 2px;
+}
+
+.gpay_pay {
+    font-size: 15px;
+    color: #003366;
+    font-weight: 600;
+    display: block;
+    padding: 2px;
+}
+
+
+/* .1... */
+
+.go_play {
+    float: left;
+    width: 155px;
+    border: 1px solid #003366;
+    margin-top: 25px;
+    padding: 2px;
+    background-color: white;
+}
+
+.go_play:hover {
+    background-color: #eef9fe;
+}
+
+.go_image {
+    height: 25px;
+    float: left;
+    margin-top: 13px;
+}
+
+.gogpay {
+    display: inline-block;
+}
+
+.go_get {
+    display: block;
+    color: #003366;
+    font-size: 10px;
+    padding: 2px 3px 3px 2px;
+}
+
+.go_pay {
+    font-size: 15px;
+    color: #003366;
+    font-weight: 600;
+    display: block;
+    padding: 2px;
+}
+
+
+/* .2... */
+
+.go_playa {
+    float: left;
+    width: 177px;
+    border: 1px solid #003366;
+    margin-top: 25px;
+    padding: 2px;
+    background-color: white;
+}
+
+.go_playa:hover {
+    background-color: #eef9fe;
+}
+
+.go_imagea {
+    height: 25px;
+    float: left;
+    margin-top: 13px;
+}
+
+.gogpaya {
+    float: left;
+}
+
+.go_geta {
+    color: #003366;
+    font-size: 10px;
+    padding: 2px 3px 3px 2px;
+    float: left;
+}
+
+.go_paya {
+    font-size: 15px;
+    color: #003366;
+    font-weight: 600;
+    float: left;
+    clear: left;
+    padding: 2px;
+}

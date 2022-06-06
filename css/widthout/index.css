@@ -1,0 +1,556 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Gilroy", "-apple-system,BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.header_here {
+    padding: 15px 20px 15px 20px;
+    width: 100%;
+    float: left;
+}
+
+.image {
+    float: left;
+}
+
+.image1 {
+    height: 42px;
+    float: left;
+}
+
+.first_list {
+    float: left;
+    padding: 0px 90px 0px 90px;
+}
+
+.pay {
+    padding: 14px;
+    float: left;
+}
+
+.log {
+    padding: 0px 5px 0px 5px;
+    float: right;
+    font-size: 17px;
+}
+
+.header-nav {
+    float: left;
+    list-style-type: none;
+    padding: 0px 12px 0px 22px;
+    font-weight: 400;
+    font-size: 17px;
+    color: black;
+    background-color: white;
+}
+
+.header_nav_link:hover {
+    background-color: #eef9fe;
+    color: #003366;
+    font-weight: 400;
+    border-radius: 30px;
+}
+
+.header_nav_link {
+    padding: 10px 10px 10px 10px;
+}
+
+.header-nav a {
+    text-decoration: none;
+    color: black;
+    float: left;
+}
+
+.log a {
+    text-decoration: none;
+    float: left;
+}
+
+.signup {
+    float: left;
+    list-style-type: none;
+    padding: 0px 5px 0px 5px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.login {
+    float: left;
+    list-style-type: none;
+}
+
+.header_sign {
+    padding: 10px 20px 10px 20px;
+    background-color: #003366;
+    color: white;
+    font-weight: 600;
+    float: right;
+}
+
+.header_sign:hover {
+    background-color: #eef9fe;
+    color: #003366;
+    font-weight: 600;
+}
+
+.header_log:hover {
+    background-color: #eef9fe;
+}
+
+.header_log {
+    padding: 10px 20px 10px 20px;
+    color: #003366;
+    font-weight: 600;
+    float: right;
+}
+
+.card_image {
+    width: 40%;
+    float: left;
+}
+
+.card_image img {
+    width: 100%;
+    float: left;
+}
+
+.section1 {
+    width: 100%;
+    float: left;
+    padding: 50px 10px 20px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card_pay {
+    width: 100%;
+    float: left;
+}
+
+.R {
+    width: 60%;
+    float: left;
+    padding: 0px 10px 0px 35px;
+    background-color: white;
+}
+
+.Receive_pay {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 35px;
+    color: #606060;
+    background-color: white;
+}
+
+.top_sec {
+    width: 100%;
+    float: left;
+    font-size: 47px;
+    font-weight: 400;
+    color: #606060;
+}
+
+.power_store {
+    width: 100%;
+    font-size: 100%;
+    font-weight: 600;
+    color: #003366;
+}
+
+.google_play {
+    float: left;
+    width: 200px;
+    border: 1px solid #003366;
+    margin-top: 40px;
+    padding: 2px;
+    background-color: white;
+}
+
+.google_play:hover {
+    background-color: #eef9fe;
+}
+
+.gpay_image {
+    display: inline-block;
+}
+
+.gpay_get {
+    display: block;
+    color: #003366;
+    font-size: 12px;
+    padding: 2px 3px 3px 2px;
+}
+
+.gpaygpay {
+    display: inline-block;
+}
+
+.gpay_pay {
+    font-size: 20px;
+    color: #003366;
+    font-weight: 600;
+    display: block;
+    padding: 2px;
+}
+
+.image a {
+    float: left;
+}
+
+.other_payment {
+    float: left;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color: #606060;
+    margin-bottom: 60px;
+}
+
+
+/* ...................................section2............ ....................... */
+
+.section2 {
+    float: left;
+    width: 100%;
+}
+
+.left_payment {
+    width: 50%;
+    float: left;
+    padding: 0px 15px 0px 15px;
+}
+
+.a_left_payment {
+    float: left;
+    width: 100%;
+}
+
+.a_right_payment {
+    float: left;
+    width: 100%;
+}
+
+.a_left_payment_img {
+    float: left;
+    width: 100%;
+    text-decoration: none;
+    background-color: #eefbee;
+    padding: 70px 40px 70px 40px;
+    text-align: center;
+}
+
+.a_right_payment_img {
+    float: left;
+    width: 100%;
+    text-decoration: none;
+    background-color: #eefbee;
+    padding: 69px 40px 70px 40px;
+    text-align: center;
+}
+
+.left_payment_ippopay_gateway {
+    float: left;
+    width: 100%;
+    padding: 26px 100px 36px 24px;
+    background-color: #f9f9f9;
+}
+
+.right_bank {
+    float: left;
+    width: 100%;
+    padding: 26px 100px 36px 24px;
+    background-color: #f9f9f9;
+}
+
+.right_bank_neoBank {
+    float: left;
+    width: 100%;
+    margin-bottom: 12px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #003366;
+}
+
+.right_bank_neoBank_page {
+    float: left;
+    width: 100%;
+    color: #606060;
+    font-size: 16px;
+    line-height: 29px;
+}
+
+.left_payment_ippopay_gateway_paymentGateway {
+    float: left;
+    width: 100%;
+    margin-bottom: 12px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #003366;
+}
+
+.left_page_gateWay {
+    float: left;
+    width: 100%;
+    color: #606060;
+    font-size: 16px;
+    line-height: 29px;
+}
+
+.right_payment {
+    width: 50%;
+    float: left;
+    padding: 0px 15px 0px 15px;
+}
+
+.a_right_payment {
+    float: left;
+    width: 100%;
+}
+
+
+/* ...................section3............... */
+
+.section3 {
+    float: left;
+    width: 100%;
+    padding: 60px 0px;
+}
+
+.collect_payments_instantly {
+    float: left;
+    width: 100%;
+    font-weight: 600;
+    font-size: 36px;
+    padding: 10px;
+    color: #303030;
+    margin-bottom: 35px;
+}
+
+.qr_to_branch {
+    width: 70%;
+    float: left;
+}
+
+.qr {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+
+.qr_icon {
+    background: url(./image/qr-icon.svg);
+    height: 24px;
+    width: 24px;
+    float: left;
+}
+
+.qr1 {
+    padding: 30px;
+}
+
+.qr1:hover {
+    background-color: #eef9fe;
+}
+
+.QR_Code {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #303030;
+}
+
+.QR_Code:hover {
+    color: #003366;
+}
+
+.share_QR_and_collect {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.cash {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+
+.cash1 {
+    padding: 30px;
+}
+
+.Cash_Record {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #303030;
+}
+
+.Cash_Record:hover {
+    color: #003366;
+}
+
+.Record_Offline {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.cash1:hover {
+    background-color: #eef9fe;
+}
+
+.phone {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+
+.phone1 {
+    padding: 30px;
+}
+
+.Tap_to_phone {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #303030;
+}
+
+.Tap_to_phone:hover {
+    color: #003366;
+}
+
+.Accept_contactless_payments {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.phone:hover {
+    background-color: #eef9fe;
+}
+
+.pay {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+    clear: left;
+}
+
+.pay1 {
+    padding: 30px;
+}
+
+.Payment_link {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #303030;
+}
+
+.Payment_link:hover {
+    color: #003366;
+}
+
+.Share_payment_link {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.pay1:hover {
+    background-color: #eef9fe;
+}
+
+.branch {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+
+.branch1 {
+    padding: 30px;
+}
+
+.Multiple_Branch {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #303030;
+}
+
+.Multiple_Branch:hover {
+    color: #003366;
+}
+
+.manage_and_view {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.branch1:hover {
+    background-color: #eef9fe;
+}
+
+.img_qr {
+    float: left;
+    width: 30%;
+}
+
+
+/* ...............section4............. */
+
+.section4 {
+    width: 100%;
+}
+
+.section4_image_exclusive {
+    width: 40%;
+    float: left;
+}
+
+.collect_section {
+    width: 60%;
+    float: left;
+}
+
+.Exclusive_Digital_Banking_Services {
+    float: left;
+    width: 100%;
+    font-weight: 600;
+    font-size: 36px;
+    padding: 10px;
+    color: #303030;
+    margin-bottom: 35px;
+}
+
+.Business_Account {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #303030;
+}
+
+.Merchant_Virtual_Account {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.terminals {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+}

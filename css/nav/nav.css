@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Gilroy", "-apple-system,BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.image {
+    width: 10%;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+
+.pay {
+    width: 60%;
+    padding: 15px 15px 15px 15px;
+    float: left;
+    list-style-type: none;
+    color: black;
+}
+
+.log-in {
+    width: 30%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+    list-style-type: none;
+    color: black;
+}
+
+.a {
+    width: 25%;
+    padding: 8px 12px 8px 12px;
+    float: left;
+    list-style-type: none;
+    color: black;
+    border-radius: 30px;
+    /* font-weight: 500; */
+}
+
+li a {
+    padding: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.a:hover {
+    background-color: #eef9fe;
+    /* padding: 0px 5px 0px 5px; */
+}
+
+.b {
+    width: 25%;
+    padding: 8px 12px 8px 12px;
+    float: left;
+    list-style-type: none;
+    color: black;
+    border-radius: 30px;
+    /* font-weight: 400; */
+}
+
+.b:hover {
+    background-color: #eef9fe;
+    /* padding: 5px 20px 5px 20px; */
+}
+
+.c {
+    width: 25%;
+    padding: 8px 12px 8px 12px;
+    float: left;
+    list-style-type: none;
+    color: black;
+    border-radius: 30px;
+    font-weight: 400;
+}
+
+.c:hover {
+    background-color: #eef9fe;
+    /* padding: 5px 20px 5px 20px; */
+}
+
+.d {
+    width: 25%;
+    padding: 8px 12px 8px 12px;
+    float: left;
+    list-style-type: none;
+    color: black;
+    border-radius: 30px;
+    font-weight: 400;
+}
+
+.d:hover {
+    background-color: #eef9fe;
+    /* padding: 5px 20px 5px 20px; */
+}
+
+.e {
+    width: 50%;
+    padding: 5px 5px 5px 5px;
+    float: left;
+    list-style-type: none;
+    color: #23527c;
+    font-weight: 700;
+}
+
+.e:hover {
+    background-color: #eef9fe;
+    /* padding: 5px 20px 5px 20px; */
+}
+
+.f {
+    width: 50%;
+    padding: 5px 5px 5px 5px;
+    float: left;
+    list-style-type: none;
+    color: white;
+    background-color: #23527c;
+    font-weight: 300;
+}
+
+.f:hover {
+    background-color: #eef9fe;
+    color: #23527c;
+}
